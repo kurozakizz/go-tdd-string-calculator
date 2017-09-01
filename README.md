@@ -1,2 +1,2 @@
-# go-tdd-string-calculator
+# Golang TDD String Calculator
 golang tdd string calculator
